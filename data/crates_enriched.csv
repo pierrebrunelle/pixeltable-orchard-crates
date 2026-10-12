@@ -1,0 +1,9 @@
+crate_code,orchard,variety,weight_rounded,volume_cm3,density,lane,tag,moisture_pct
+C-1001,willamette,honeycrisp,18.4,30000.0,0.6133333333333333,honeycrisp:mid,C-1001@willamette,12.5
+C-1002,hood-river,gala,16.2,25536.0,0.6343984962406014,gala:mid,C-1002@hood-river,11.0
+C-1003,willamette,fuji,22.0,34944.0,0.6295787545787546,fuji:heavy,C-1003@willamette,13.2
+C-1004,yakima,granny-smith,15.5,22356.0,0.6933261764179638,granny-smith:light,C-1004@yakima,10.8
+C-1005,hood-river,honeycrisp,-2.0,30000.0,-0.06666666666666667,honeycrisp:reject,C-1005@hood-river,12.0
+C-1006,willamette,gala,19.1,28536.0,0.6693299691617606,gala:mid,C-1006@willamette,105.0
+C-1007,yakima,fuji,17.8,30225.0,0.5889164598842018,fuji:mid,C-1007@yakima,14.1
+C-1008,hood-river,gala,0.0,20020.0,0.0,gala:reject,C-1008@hood-river,9.5
